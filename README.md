@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on school projects and client projects 
-- 🌱 I’m currently learning React, NodeJS, PHP & SQL
+- 🌱 I’m currently learning React, Redux, NodeJS, PHP & SQL
 - 👯 I’m looking to collaborate on Women in Tech
 - 💬 Ask me about anything! 
 - 📫 Love letters, job offers & collaborations: annica.moilanen@gmail.com
