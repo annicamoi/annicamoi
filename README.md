@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
+https://visitor-badge.laobi.icu/badge?page_id=annicamoi.visitor-badge
+
 - 🔭 I’m currently working on school projects and client projects 
 - 🌱 I’m currently learning React, Redux, NodeJS, PHP & SQL
 - 👯 I’m looking to collaborate on Women in Tech
